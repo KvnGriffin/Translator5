@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Translator5</string>
+
+    <string name="inputText"></string>
+    <string name="toIrish">to Irish</string>
+
+    
+    <string name="toEnglish">to English</string>
+    <string name="translate">Translate</string>
+   
+    
+
+</resources>
